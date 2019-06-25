@@ -1,0 +1,2073 @@
+{
+  "matching_results": 29,
+  "session_token": "1_kdXyYLADHR7nbQe5QAEuurWgG4",
+  "results": [
+    {
+      "id": "ee2af2ed20263c798905bb6123ea3402",
+      "result_metadata": {
+        "confidence": 0.17982668859126796,
+        "score": 3.6988052000000002
+      },
+      "listing_id": 577473,
+      "host_name": "Linda",
+      "text": "Linda was a welcoming and gracious host - making sure I was comfortable and had everything I needed. Even beyond my own stay, she also ensured that my daughters had a good time at her home with individual beds. We all enjoyed Linda's great kitchen, too, where we prepared  and enjoyed holiday meals. Linda was very responsive in communicating ahead of my stay and made sure I could reach her at any time just in case I had any questions. Linda's screened-in back porch was cozy and the large yard and decks were also very nice. The neighborhood is only a 10-minute drive from downtown and there is convenient shopping, including Whole Foods, and many restaurants nearby. This was a very nice stay!",
+      "listing_longitude": -97.850977411553828,
+      "reviewer_id": 8366545,
+      "host_id": 2839901,
+      "date": "2013-12-01",
+      "listing_latitude": 30.228892374345758,
+      "reviewer_name": "Karen",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 7,
+            "sentiment": {
+              "score": 0.580598,
+              "label": "positive"
+            },
+            "text": "Linda",
+            "relevance": 0.927862,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Whole Foods",
+            "relevance": 0.236545,
+            "type": "Company"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "10-minute",
+            "relevance": 0.236545,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.833104,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Food",
+            "relevance": 0.933871,
+            "dbpedia_resource": "http://dbpedia.org/resource/Food"
+          },
+          {
+            "text": "Community",
+            "relevance": 0.6608,
+            "dbpedia_resource": "http://dbpedia.org/resource/Community"
+          },
+          {
+            "text": "Jason Isaacs",
+            "relevance": 0.644369,
+            "dbpedia_resource": "http://dbpedia.org/resource/Jason_Isaacs"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.813385,
+            "label": "/shopping"
+          },
+          {
+            "score": 0.77722,
+            "label": "/food and drink/cuisines"
+          },
+          {
+            "score": 0.75458,
+            "label": "/food and drink/food"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "Linda's great kitchen",
+            "relevance": 0.97343,
+            "count": 1
+          },
+          {
+            "text": "Linda",
+            "relevance": 0.741202,
+            "count": 3
+          },
+          {
+            "text": "good time",
+            "relevance": 0.591532,
+            "count": 1
+          },
+          {
+            "text": "own stay",
+            "relevance": 0.563725,
+            "count": 1
+          },
+          {
+            "text": "10-minute drive",
+            "relevance": 0.561198,
+            "count": 1
+          },
+          {
+            "text": "neighborhood",
+            "relevance": 0.54564,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.51815,
+            "count": 1
+          },
+          {
+            "text": "daughters",
+            "relevance": 0.512665,
+            "count": 1
+          },
+          {
+            "text": "back porch",
+            "relevance": 0.5088,
+            "count": 1
+          },
+          {
+            "text": "home",
+            "relevance": 0.508456,
+            "count": 1
+          },
+          {
+            "text": "case",
+            "relevance": 0.508072,
+            "count": 1
+          },
+          {
+            "text": "decks",
+            "relevance": 0.507942,
+            "count": 1
+          },
+          {
+            "text": "questions",
+            "relevance": 0.505752,
+            "count": 1
+          },
+          {
+            "text": "restaurants",
+            "relevance": 0.505752,
+            "count": 1
+          },
+          {
+            "text": "convenient shopping",
+            "relevance": 0.49676,
+            "count": 1
+          },
+          {
+            "text": "gracious host",
+            "relevance": 0.489566,
+            "count": 1
+          },
+          {
+            "text": "large yard",
+            "relevance": 0.469222,
+            "count": 1
+          },
+          {
+            "text": "nice stay",
+            "relevance": 0.461743,
+            "count": 1
+          },
+          {
+            "text": "Whole Foods",
+            "relevance": 0.46005,
+            "count": 1
+          },
+          {
+            "text": "individual beds",
+            "relevance": 0.439016,
+            "count": 1
+          },
+          {
+            "text": "holiday meals",
+            "relevance": 0.439016,
+            "count": 1
+          },
+          {
+            "text": "stay",
+            "relevance": 0.407955,
+            "count": 1
+          },
+          {
+            "text": "time",
+            "relevance": 0.401937,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "d2beaf8bcc8966e3ffe46c49bcd1df0260ed226c",
+        "filename": "043.json",
+        "file_type": "json"
+      },
+      "title": "Austin House for special events"
+    },
+    {
+      "id": "e5d8ca1f0604ba34f38cd9b5149202bd",
+      "result_metadata": {
+        "confidence": 0.20745129991714786,
+        "score": 3.6051704629775303
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "This is one of the first times we've been hesitant to write a review because we've been afraid of letting the secret out. :) We come to Austin fairly regularly, and we hope that this place is available for our next stay too! \r\nThe room is quite large and luxurious. The desk and large chair came in handy for my work and my wife's studying. I don't think the pictures do it justice. The view from the expansive windows is great. You feel like you're in the trees. The windows are _very_ good sound insulators, so we slept soundly each night. The bathroom is large and beautiful, and the shower is great. \r\nDownstairs, we had use of the extensive, well stocked kitchen and dining room. It's worth mentioning that their coffee machine makes some of the best coffee I've ever had. \r\nThe house is extremely well located in one of the best neighborhoods in Austin. I don't think we ever needed more than 10 minutes to get just about anywhere we needed to go, whether it was downtown, north, or south. \r\nSasha and David are kind, friendly, and understanding people. We felt right at home from the moment we came in. They love cats, which was great for us, as we do too. The cats will come keep you company if you want, but are happy to leave you to your own devices if you'd prefer. So, there's no need to be a cat person to stay here - they're just an optional bonus. :) \r\n\r\nWe wouldn't hesitate to stay here again!",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 3088100,
+      "host_id": 2665483,
+      "date": "2015-01-04",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Taylor",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0.744759,
+              "label": "positive"
+            },
+            "text": "Austin",
+            "relevance": 0.757624,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Sasha",
+            "relevance": 0.47438399999999997,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "David",
+            "relevance": 0.392913,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "10 minutes",
+            "relevance": 0.276544,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.728813,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Bathroom",
+            "relevance": 0.932217,
+            "dbpedia_resource": "http://dbpedia.org/resource/Bathroom"
+          },
+          {
+            "text": "Shower",
+            "relevance": 0.897409,
+            "dbpedia_resource": "http://dbpedia.org/resource/Shower"
+          },
+          {
+            "text": "Cat",
+            "relevance": 0.896821,
+            "dbpedia_resource": "http://dbpedia.org/resource/Cat"
+          },
+          {
+            "text": "English-language films",
+            "relevance": 0.850519,
+            "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+          },
+          {
+            "text": "Bathtub",
+            "relevance": 0.797474,
+            "dbpedia_resource": "http://dbpedia.org/resource/Bathtub"
+          },
+          {
+            "text": "Rooms",
+            "relevance": 0.775492,
+            "dbpedia_resource": "http://dbpedia.org/resource/Rooms"
+          },
+          {
+            "text": "Need",
+            "relevance": 0.732875,
+            "dbpedia_resource": "http://dbpedia.org/resource/Need"
+          },
+          {
+            "text": "Secret",
+            "relevance": 0.640338,
+            "dbpedia_resource": "http://dbpedia.org/resource/Secret_(disambiguation)"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.995044,
+            "label": "/pets/cats"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "coffee machine",
+            "relevance": 0.686793,
+            "count": 1
+          },
+          {
+            "text": "first times",
+            "relevance": 0.658942,
+            "count": 1
+          },
+          {
+            "text": "good sound insulators",
+            "relevance": 0.644461,
+            "count": 1
+          },
+          {
+            "text": "large chair",
+            "relevance": 0.633747,
+            "count": 1
+          },
+          {
+            "text": "best coffee",
+            "relevance": 0.582842,
+            "count": 1
+          },
+          {
+            "text": "expansive windows",
+            "relevance": 0.579182,
+            "count": 1
+          },
+          {
+            "text": "dining room",
+            "relevance": 0.567917,
+            "count": 1
+          },
+          {
+            "text": "cats",
+            "relevance": 0.536815,
+            "count": 2
+          },
+          {
+            "text": "desk",
+            "relevance": 0.531167,
+            "count": 1
+          },
+          {
+            "text": "house",
+            "relevance": 0.530545,
+            "count": 1
+          },
+          {
+            "text": "Sasha",
+            "relevance": 0.52983,
+            "count": 1
+          },
+          {
+            "text": "view",
+            "relevance": 0.529209,
+            "count": 1
+          },
+          {
+            "text": "cat person",
+            "relevance": 0.528988,
+            "count": 1
+          },
+          {
+            "text": "best neighborhoods",
+            "relevance": 0.526846,
+            "count": 1
+          },
+          {
+            "text": "bathroom",
+            "relevance": 0.522126,
+            "count": 1
+          },
+          {
+            "text": "minutes",
+            "relevance": 0.521926,
+            "count": 1
+          },
+          {
+            "text": "Austin",
+            "relevance": 0.518327,
+            "count": 2
+          },
+          {
+            "text": "room",
+            "relevance": 0.51828,
+            "count": 1
+          },
+          {
+            "text": "home",
+            "relevance": 0.516945,
+            "count": 1
+          },
+          {
+            "text": "David",
+            "relevance": 0.516858,
+            "count": 1
+          },
+          {
+            "text": "company",
+            "relevance": 0.516693,
+            "count": 1
+          },
+          {
+            "text": "kitchen",
+            "relevance": 0.512315,
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "relevance": 0.511894,
+            "count": 1
+          },
+          {
+            "text": "review",
+            "relevance": 0.511179,
+            "count": 1
+          },
+          {
+            "text": "place",
+            "relevance": 0.510501,
+            "count": 1
+          },
+          {
+            "text": "windows",
+            "relevance": 0.510366,
+            "count": 1
+          },
+          {
+            "text": "pictures",
+            "relevance": 0.509417,
+            "count": 1
+          },
+          {
+            "text": "own devices",
+            "relevance": 0.509257,
+            "count": 1
+          },
+          {
+            "text": "work",
+            "relevance": 0.509221,
+            "count": 1
+          },
+          {
+            "text": "next stay",
+            "relevance": 0.507815,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.507605,
+            "count": 1
+          },
+          {
+            "text": "shower",
+            "relevance": 0.506994,
+            "count": 1
+          },
+          {
+            "text": "justice",
+            "relevance": 0.506272,
+            "count": 1
+          },
+          {
+            "text": "trees",
+            "relevance": 0.506272,
+            "count": 1
+          },
+          {
+            "text": "night",
+            "relevance": 0.506272,
+            "count": 1
+          },
+          {
+            "text": "need",
+            "relevance": 0.506054,
+            "count": 1
+          },
+          {
+            "text": "wife's studying",
+            "relevance": 0.498783,
+            "count": 1
+          },
+          {
+            "text": "understanding people",
+            "relevance": 0.498783,
+            "count": 1
+          },
+          {
+            "text": "optional bonus",
+            "relevance": 0.498783,
+            "count": 1
+          },
+          {
+            "text": "secret",
+            "relevance": 0.455878,
+            "count": 1
+          },
+          {
+            "text": "south",
+            "relevance": 0.455878,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "e3f6117be23e927342495606a544a52072d9c513",
+        "filename": "005.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "e6c6878dc80460fc806d1547c144bbd9",
+      "result_metadata": {
+        "confidence": 0.16441095553111199,
+        "score": 3.2995707602370747
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Graham and I used this spot as our home base as we explored Austin to potentially move there. It is centrally located, right off Lamar, near some great restaurants, UT, and downtown. The space was quiet, clean and so pretty! Our hosts were friendly and answered our questions without being intrusive or nosy. It was really appreciated as we were weighing so many decisions, timetables and such. It was a great experience for us.",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 14844130,
+      "host_id": 2665483,
+      "date": "2015-04-26",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Cath",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.404861,
+              "label": "positive"
+            },
+            "text": "Lamar",
+            "relevance": 0.957509,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": -0.562242,
+              "label": "negative"
+            },
+            "text": "Graham",
+            "relevance": 0.857868,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": -0.562242,
+              "label": "negative"
+            },
+            "text": "Austin",
+            "relevance": 0.782581,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.860908,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Force",
+            "relevance": 0.857147,
+            "dbpedia_resource": "http://dbpedia.org/resource/Force"
+          },
+          {
+            "text": "Topological space",
+            "relevance": 0.797863,
+            "dbpedia_resource": "http://dbpedia.org/resource/Topological_space"
+          },
+          {
+            "text": "2002 albums",
+            "relevance": 0.785828,
+            "dbpedia_resource": "http://dbpedia.org/resource/2002_albums"
+          },
+          {
+            "text": "Knowledge",
+            "relevance": 0.72308,
+            "dbpedia_resource": "http://dbpedia.org/resource/Knowledge"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.62428,
+            "label": "/food and drink/food"
+          },
+          {
+            "score": 0.59789,
+            "label": "/food and drink/food/fast food"
+          },
+          {
+            "score": 0.570822,
+            "label": "/business and industrial/business operations/business plans"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "home base",
+            "relevance": 0.779559,
+            "count": 1
+          },
+          {
+            "text": "great restaurants",
+            "relevance": 0.728052,
+            "count": 1
+          },
+          {
+            "text": "great experience",
+            "relevance": 0.682243,
+            "count": 1
+          },
+          {
+            "text": "Graham",
+            "relevance": 0.631272,
+            "count": 1
+          },
+          {
+            "text": "hosts",
+            "relevance": 0.605713,
+            "count": 1
+          },
+          {
+            "text": "Lamar",
+            "relevance": 0.568321,
+            "count": 1
+          },
+          {
+            "text": "space",
+            "relevance": 0.55915,
+            "count": 1
+          },
+          {
+            "text": "spot",
+            "relevance": 0.557482,
+            "count": 1
+          },
+          {
+            "text": "questions",
+            "relevance": 0.533092,
+            "count": 1
+          },
+          {
+            "text": "decisions",
+            "relevance": 0.533092,
+            "count": 1
+          },
+          {
+            "text": "Austin",
+            "relevance": 0.527305,
+            "count": 1
+          },
+          {
+            "text": "timetables",
+            "relevance": 0.527305,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.522527,
+            "count": 1
+          },
+          {
+            "text": "UT",
+            "relevance": 0.423967,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "e7f5fb78472bc514d124c7351c76e50fdc9daf05",
+        "filename": "017.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "9c17ed37c1c5479ccd4c73e4e7b0ea27",
+      "result_metadata": {
+        "confidence": 0.13928225360769367,
+        "score": 3.2963221015789053
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Alexandra's place was excellent and we liked it very much. It was an excellent stay and hospitality was good. We liked the room overlooking lot of tress through the large window. It was just the way we wanted it to be. Also the surrounding was having lot of trees and neighborhood was too good. We loved it!!!",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 38082993,
+      "host_id": 2665483,
+      "date": "2015-07-11",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Ganesh",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.850845,
+              "label": "positive"
+            },
+            "text": "Alexandra",
+            "relevance": 0.895731,
+            "type": "Person"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.797696,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Tree",
+            "relevance": 0.886784,
+            "dbpedia_resource": "http://dbpedia.org/resource/Tree"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.636795,
+            "label": "/business and industrial/hospitality industry"
+          },
+          {
+            "score": 0.601782,
+            "label": "/travel/traveling with kids"
+          },
+          {
+            "score": 0.581801,
+            "label": "/society/dating"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "Alexandra's place",
+            "relevance": 0.985027,
+            "count": 1
+          },
+          {
+            "text": "excellent stay",
+            "relevance": 0.816756,
+            "count": 1
+          },
+          {
+            "text": "large window",
+            "relevance": 0.72167,
+            "count": 1
+          },
+          {
+            "text": "lot of tress",
+            "relevance": 0.60238,
+            "count": 1
+          },
+          {
+            "text": "room",
+            "relevance": 0.588179,
+            "count": 1
+          },
+          {
+            "text": "way",
+            "relevance": 0.55584,
+            "count": 1
+          },
+          {
+            "text": "hospitality",
+            "relevance": 0.533939,
+            "count": 1
+          },
+          {
+            "text": "neighborhood",
+            "relevance": 0.533939,
+            "count": 1
+          },
+          {
+            "text": "lot of trees",
+            "relevance": 0.442299,
+            "count": 1
+          },
+          {
+            "text": "surrounding",
+            "relevance": 0.292326,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "e9ce0dc1e35fd33a030a1f499f53cda5fb0e7d97",
+        "filename": "025.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "583caffa53c60986785b4ea2a99542ce",
+      "result_metadata": {
+        "confidence": 0.14664824602652041,
+        "score": 3.2024051357677807
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Let me start by saying that this was my first experience with airbnb and it was AWESOME!  Alexandria (and her husband) were outstanding host and the the room was outstanding as well. Its the little details in life that really make a difference and my stay could not have been more pleasing. A particular bonus was the near immediate response I received back when reserving the space and their willingness to accommodate me on such short notice (only a couple hours). Would definitely recommend to others who are looking for something up-scale  and will return back next time in Austin.",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 29507964,
+      "host_id": 2665483,
+      "date": "2015-03-28",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Patrick",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Alexandria",
+            "relevance": 0.888958,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.807824,
+              "label": "positive"
+            },
+            "text": "airbnb",
+            "relevance": 0.817556,
+            "type": "Company",
+            "disambiguation": {
+              "subtype": [],
+              "name": "Airbnb",
+              "dbpedia_resource": "http://dbpedia.org/resource/Airbnb"
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.797567,
+              "label": "positive"
+            },
+            "text": "Austin",
+            "relevance": 0.746365,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.822806,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Metaphysics",
+            "relevance": 0.904317,
+            "dbpedia_resource": "http://dbpedia.org/resource/Metaphysics"
+          },
+          {
+            "text": "Time",
+            "relevance": 0.903675,
+            "dbpedia_resource": "http://dbpedia.org/resource/Time"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.662019,
+            "label": "/business and industrial/business operations/business plans"
+          },
+          {
+            "score": 0.635393,
+            "label": "/art and entertainment/shows and events"
+          },
+          {
+            "score": 0.613543,
+            "label": "/travel/traveling with kids"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "particular bonus",
+            "relevance": 0.908898,
+            "count": 1
+          },
+          {
+            "text": "immediate response",
+            "relevance": 0.819582,
+            "count": 1
+          },
+          {
+            "text": "little details",
+            "relevance": 0.765386,
+            "count": 1
+          },
+          {
+            "text": "such short notice",
+            "relevance": 0.582361,
+            "count": 1
+          },
+          {
+            "text": "Alexandria",
+            "relevance": 0.55514,
+            "count": 1
+          },
+          {
+            "text": "space",
+            "relevance": 0.540949,
+            "count": 1
+          },
+          {
+            "text": "outstanding host",
+            "relevance": 0.538456,
+            "count": 1
+          },
+          {
+            "text": "willingness",
+            "relevance": 0.537406,
+            "count": 1
+          },
+          {
+            "text": "life",
+            "relevance": 0.532159,
+            "count": 1
+          },
+          {
+            "text": "scale",
+            "relevance": 0.530388,
+            "count": 1
+          },
+          {
+            "text": "first experience",
+            "relevance": 0.523041,
+            "count": 1
+          },
+          {
+            "text": "difference",
+            "relevance": 0.520684,
+            "count": 1
+          },
+          {
+            "text": "room",
+            "relevance": 0.51805,
+            "count": 1
+          },
+          {
+            "text": "airbnb",
+            "relevance": 0.517062,
+            "count": 1
+          },
+          {
+            "text": "Austin",
+            "relevance": 0.514073,
+            "count": 1
+          },
+          {
+            "text": "next time",
+            "relevance": 0.494554,
+            "count": 1
+          },
+          {
+            "text": "couple hours",
+            "relevance": 0.471079,
+            "count": 1
+          },
+          {
+            "text": "husband",
+            "relevance": 0.394129,
+            "count": 1
+          },
+          {
+            "text": "stay",
+            "relevance": 0.379886,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "817ea4b26881658f5c2e2be91ceb60915fdb8f77",
+        "filename": "014.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "b616b976924906c35c3bb29e6e46d2fa",
+      "result_metadata": {
+        "confidence": 0.18748439161962063,
+        "score": 3.1575481786185065
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Alexandra & husband David made my first stay at their lovely Austin so easy, comfortable, and pleasant.  Communication and responsiveness was a breeze, without ever being intrusive.  The space is so generous, well-appointed & relaxing -- guests will find themselves gazing out the bank of eastern-facing windows to soak in the striking view.  Black-out curtains will conversely handily keep any morning sun from waking guests unnecessarily early.\n\nThe neighborhood is beautiful and handily located for easy access to UT-North Campus shopping/dining, brief drive for on/off access via Loop 1 (MoPAC), as well as Lamar and/or Guadalupe.  15 minute trips to:  downtown, Ben White (71) & Capital of Texas highways (Barton Creek area), as well as Loop 1 (MoPAC) / 183 interchange.\n\nBe aware that one must be comfortable with steps/stairs:  down to front door from street level;  up stairwell to upper level suite.  Nothing too taxing, however!\n\nSo pleased with this property and hosts, am planning to RSVP for monthly board meetings in Austin!",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 5722783,
+      "host_id": 2665483,
+      "date": "2015-05-04",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Jason",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0.813598,
+              "label": "positive"
+            },
+            "text": "Austin",
+            "relevance": 0.880934,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "Brand",
+                "GovernmentalJurisdiction",
+                "PlaceWithNeighborhoods",
+                "City"
+              ],
+              "name": "Austin, Texas",
+              "dbpedia_resource": "http://dbpedia.org/resource/Austin,_Texas"
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.48101,
+              "label": "positive"
+            },
+            "text": "UT-North Campus shopping/dining",
+            "relevance": 0.591139,
+            "type": "Organization"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Barton Creek",
+            "relevance": 0.570343,
+            "type": "GeographicFeature",
+            "disambiguation": {
+              "subtype": [
+                "Location",
+                "BodyOfWater",
+                "River"
+              ],
+              "name": "Barton Creek",
+              "dbpedia_resource": "http://dbpedia.org/resource/Barton_Creek"
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.813598,
+              "label": "positive"
+            },
+            "text": "Alexandra",
+            "relevance": 0.548261,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Ben White",
+            "relevance": 0.489815,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.433516,
+              "label": "positive"
+            },
+            "text": "Lamar",
+            "relevance": 0.481769,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.813598,
+              "label": "positive"
+            },
+            "text": "David",
+            "relevance": 0.45977,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Texas",
+            "relevance": 0.449292,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "PoliticalDistrict",
+                "AdministrativeDivision",
+                "GovernmentalJurisdiction",
+                "USState",
+                "StateOrCounty"
+              ],
+              "name": "Texas",
+              "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "15 minute",
+            "relevance": 0.449292,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.580006,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Austin, Texas",
+            "relevance": 0.915811,
+            "dbpedia_resource": "http://dbpedia.org/resource/Austin,_Texas"
+          },
+          {
+            "text": "Texas",
+            "relevance": 0.860657,
+            "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+          },
+          {
+            "text": "Barton Springs",
+            "relevance": 0.846913,
+            "dbpedia_resource": "http://dbpedia.org/resource/Barton_Springs"
+          },
+          {
+            "text": "Barton Springs Pool",
+            "relevance": 0.678523,
+            "dbpedia_resource": "http://dbpedia.org/resource/Barton_Springs_Pool"
+          },
+          {
+            "text": "Lady Bird Lake",
+            "relevance": 0.640332,
+            "dbpedia_resource": "http://dbpedia.org/resource/Lady_Bird_Lake"
+          },
+          {
+            "text": "Texas Department of Transportation",
+            "relevance": 0.631068,
+            "dbpedia_resource": "http://dbpedia.org/resource/Texas_Department_of_Transportation"
+          },
+          {
+            "text": "Office Space",
+            "relevance": 0.581814,
+            "dbpedia_resource": "http://dbpedia.org/resource/Office_Space"
+          },
+          {
+            "text": "Colorado River",
+            "relevance": 0.579395,
+            "dbpedia_resource": "http://dbpedia.org/resource/Colorado_River_(Texas)"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.710906,
+            "label": "/business and industrial/construction"
+          },
+          {
+            "score": 0.707435,
+            "label": "/business and industrial/business operations/business plans"
+          },
+          {
+            "score": 0.651457,
+            "label": "/travel/business travel"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "minute trips",
+            "relevance": 0.715559,
+            "count": 1
+          },
+          {
+            "text": "easy access",
+            "relevance": 0.691929,
+            "count": 1
+          },
+          {
+            "text": "husband David",
+            "relevance": 0.682416,
+            "count": 1
+          },
+          {
+            "text": "UT-North Campus shopping",
+            "relevance": 0.629632,
+            "count": 1
+          },
+          {
+            "text": "street level",
+            "relevance": 0.598019,
+            "count": 1
+          },
+          {
+            "text": "Capital of Texas highways",
+            "relevance": 0.574008,
+            "count": 1
+          },
+          {
+            "text": "Ben White",
+            "relevance": 0.572597,
+            "count": 1
+          },
+          {
+            "text": "bank of eastern-facing windows",
+            "relevance": 0.569353,
+            "count": 1
+          },
+          {
+            "text": "out curtains",
+            "relevance": 0.569292,
+            "count": 1
+          },
+          {
+            "text": "first stay",
+            "relevance": 0.566195,
+            "count": 1
+          },
+          {
+            "text": "Alexandra",
+            "relevance": 0.551228,
+            "count": 1
+          },
+          {
+            "text": "space",
+            "relevance": 0.546483,
+            "count": 1
+          },
+          {
+            "text": "lovely Austin",
+            "relevance": 0.54584,
+            "count": 1
+          },
+          {
+            "text": "neighborhood",
+            "relevance": 0.54448,
+            "count": 1
+          },
+          {
+            "text": "front door",
+            "relevance": 0.538659,
+            "count": 1
+          },
+          {
+            "text": "Barton Creek area",
+            "relevance": 0.531727,
+            "count": 1
+          },
+          {
+            "text": "brief drive",
+            "relevance": 0.527524,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.523717,
+            "count": 1
+          },
+          {
+            "text": "property",
+            "relevance": 0.523478,
+            "count": 1
+          },
+          {
+            "text": "Communication",
+            "relevance": 0.520834,
+            "count": 1
+          },
+          {
+            "text": "guests",
+            "relevance": 0.520739,
+            "count": 2
+          },
+          {
+            "text": "steps",
+            "relevance": 0.520434,
+            "count": 1
+          },
+          {
+            "text": "hosts",
+            "relevance": 0.517895,
+            "count": 1
+          },
+          {
+            "text": "stairs",
+            "relevance": 0.517131,
+            "count": 1
+          },
+          {
+            "text": "dining",
+            "relevance": 0.516431,
+            "count": 1
+          },
+          {
+            "text": "access",
+            "relevance": 0.514359,
+            "count": 1
+          },
+          {
+            "text": "monthly board meetings",
+            "relevance": 0.513669,
+            "count": 1
+          },
+          {
+            "text": "Loop",
+            "relevance": 0.512569,
+            "count": 2
+          },
+          {
+            "text": "responsiveness",
+            "relevance": 0.511267,
+            "count": 1
+          },
+          {
+            "text": "stairwell",
+            "relevance": 0.510934,
+            "count": 1
+          },
+          {
+            "text": "morning sun",
+            "relevance": 0.50923,
+            "count": 1
+          },
+          {
+            "text": "breeze",
+            "relevance": 0.507907,
+            "count": 1
+          },
+          {
+            "text": "Austin",
+            "relevance": 0.507809,
+            "count": 1
+          },
+          {
+            "text": "Lamar",
+            "relevance": 0.507471,
+            "count": 1
+          },
+          {
+            "text": "Guadalupe",
+            "relevance": 0.506162,
+            "count": 1
+          },
+          {
+            "text": "interchange",
+            "relevance": 0.506162,
+            "count": 1
+          },
+          {
+            "text": "upper level suite",
+            "relevance": 0.495156,
+            "count": 1
+          },
+          {
+            "text": "striking view",
+            "relevance": 0.477946,
+            "count": 1
+          },
+          {
+            "text": "RSVP",
+            "relevance": 0.443692,
+            "count": 1
+          },
+          {
+            "text": "MoPAC",
+            "relevance": 0.440166,
+            "count": 2
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "2cd84c69955da034ad6b808226974dd7ce9e3da4",
+        "filename": "019.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "4eb7cbdb78cc4a0cd2e254ce218198c3",
+      "result_metadata": {
+        "confidence": 0.1084701295272319,
+        "score": 3.0597115945380793
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Alexandra and her husband were so kind. Their home is fantastic! The floor we stayed on was private, clean and very relaxing. It was difficult to leave the room at times with the large open windows looking out to a gorgeous view. It was so peaceful, we wanted to stay in all weekend!\r\n\r\nWe were in town for Valentine's Day and a race. Alexandra set out chocolates and flowers for us. Very sweet!\r\n\r\nThank you for having us in your lovely home. All the best from us both!",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 477206,
+      "host_id": 2665483,
+      "date": "2015-02-15",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Isabel",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0.795454,
+              "label": "positive"
+            },
+            "text": "Alexandra",
+            "relevance": 0.951413,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.563924,
+              "label": "positive"
+            },
+            "text": "Valentine",
+            "relevance": 0.412498,
+            "type": "Person"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.833177,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "Valentine's Day",
+            "relevance": 0.932986,
+            "dbpedia_resource": "http://dbpedia.org/resource/Valentine's_Day"
+          },
+          {
+            "text": "2006 albums",
+            "relevance": 0.907959,
+            "dbpedia_resource": "http://dbpedia.org/resource/2006_albums"
+          },
+          {
+            "text": "Chocolate",
+            "relevance": 0.836176,
+            "dbpedia_resource": "http://dbpedia.org/resource/Chocolate"
+          },
+          {
+            "text": "English-language films",
+            "relevance": 0.80489,
+            "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+          },
+          {
+            "text": "1982 albums",
+            "relevance": 0.700157,
+            "dbpedia_resource": "http://dbpedia.org/resource/1982_albums"
+          },
+          {
+            "text": "Stay",
+            "relevance": 0.67548,
+            "dbpedia_resource": "http://dbpedia.org/resource/Stay"
+          },
+          {
+            "text": "Debut albums",
+            "relevance": 0.6705,
+            "dbpedia_resource": "http://dbpedia.org/resource/Debut_albums"
+          },
+          {
+            "text": "Rose",
+            "relevance": 0.666223,
+            "dbpedia_resource": "http://dbpedia.org/resource/Rose"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.638646,
+            "label": "/food and drink/food/candy and sweets"
+          },
+          {
+            "score": 0.607117,
+            "label": "/business and industrial/business operations/business plans"
+          },
+          {
+            "score": 0.604499,
+            "label": "/society/dating"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "large open windows",
+            "relevance": 0.751796,
+            "count": 1
+          },
+          {
+            "text": "Valentine's Day",
+            "relevance": 0.626931,
+            "count": 1
+          },
+          {
+            "text": "Alexandra",
+            "relevance": 0.599896,
+            "count": 2
+          },
+          {
+            "text": "lovely home",
+            "relevance": 0.583466,
+            "count": 1
+          },
+          {
+            "text": "town",
+            "relevance": 0.567828,
+            "count": 1
+          },
+          {
+            "text": "gorgeous view",
+            "relevance": 0.562619,
+            "count": 1
+          },
+          {
+            "text": "room",
+            "relevance": 0.562293,
+            "count": 1
+          },
+          {
+            "text": "floor",
+            "relevance": 0.558751,
+            "count": 1
+          },
+          {
+            "text": "times",
+            "relevance": 0.553499,
+            "count": 1
+          },
+          {
+            "text": "home",
+            "relevance": 0.537251,
+            "count": 1
+          },
+          {
+            "text": "chocolates",
+            "relevance": 0.525866,
+            "count": 1
+          },
+          {
+            "text": "weekend",
+            "relevance": 0.520162,
+            "count": 1
+          },
+          {
+            "text": "race",
+            "relevance": 0.520162,
+            "count": 1
+          },
+          {
+            "text": "flowers",
+            "relevance": 0.520162,
+            "count": 1
+          },
+          {
+            "text": "husband",
+            "relevance": 0.433564,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "4c536da1f16f4934e80f18af2dabafbccb1036d8",
+        "filename": "010.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "22e4ed487ae7e07d9b9a03fda0680022",
+      "result_metadata": {
+        "confidence": 0.15309335366923371,
+        "score": 3.02579370063512
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "It was wonderful staying here. The area is spacious and our hostess, Alexandra, was gracious.  We appreciated the cleanliness and large windows!",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 29658564,
+      "host_id": 2665483,
+      "date": "2015-05-12",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Natanel",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.210801,
+              "label": "positive"
+            },
+            "text": "Alexandra",
+            "relevance": 0.915669,
+            "type": "Person"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.976805,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "1942 births",
+            "relevance": 0.863969,
+            "dbpedia_resource": "http://dbpedia.org/resource/1942_births"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.898035,
+            "label": "/technology and computing/operating systems"
+          },
+          {
+            "score": 0.850559,
+            "label": "/technology and computing/hardware/computer/servers"
+          },
+          {
+            "score": 0.746005,
+            "label": "/technology and computing/operating systems/windows"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "large windows",
+            "relevance": 0.915959,
+            "count": 1
+          },
+          {
+            "text": "area",
+            "relevance": 0.769331,
+            "count": 1
+          },
+          {
+            "text": "cleanliness",
+            "relevance": 0.631112,
+            "count": 1
+          },
+          {
+            "text": "hostess",
+            "relevance": 0.612282,
+            "count": 1
+          },
+          {
+            "text": "Alexandra",
+            "relevance": 0.588081,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "0d5e8532ec32279e30f975f7d5953d29c360d376",
+        "filename": "020.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "0003a0494896470f290bce62c950f25d",
+      "result_metadata": {
+        "confidence": 0.11863537114422007,
+        "score": 2.9433154584386729
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "We had a great stay in Alexandra's home. The room is lovely and spacious with hotel-style amenities. There were nice fluffy towels for us to use, waters and snacks in the fridge, and a great view through the large windows. The bed was also super comfortable. It's slightly out of the way from downtown, but we took an Uber there for less than $10 each way, and the neighborhood is very beautiful. We didn't interact much with Alexandra since she was out of town, but she was very responsive and nice.",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 20181013,
+      "host_id": 2665483,
+      "date": "2015-07-06",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Amy",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 4,
+            "sentiment": {
+              "score": 0.054139,
+              "label": "positive"
+            },
+            "text": "Alexandra",
+            "relevance": 0.82795,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "$10",
+            "relevance": 0.277361,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.846803,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "English-language films",
+            "relevance": 0.89176,
+            "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+          },
+          {
+            "text": "Lil Wayne",
+            "relevance": 0.6804,
+            "dbpedia_resource": "http://dbpedia.org/resource/Lil_Wayne"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.630399,
+            "label": "/food and drink"
+          },
+          {
+            "score": 0.604991,
+            "label": "/food and drink/food"
+          },
+          {
+            "score": 0.588138,
+            "label": "/family and parenting/babies and toddlers/baby clothes"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "nice fluffy towels",
+            "relevance": 0.789937,
+            "count": 1
+          },
+          {
+            "text": "way",
+            "relevance": 0.691256,
+            "count": 2
+          },
+          {
+            "text": "great view",
+            "relevance": 0.634389,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.626091,
+            "count": 1
+          },
+          {
+            "text": "great stay",
+            "relevance": 0.617705,
+            "count": 1
+          },
+          {
+            "text": "large windows",
+            "relevance": 0.597523,
+            "count": 1
+          },
+          {
+            "text": "Alexandra's home",
+            "relevance": 0.589685,
+            "count": 1
+          },
+          {
+            "text": "Uber",
+            "relevance": 0.573781,
+            "count": 1
+          },
+          {
+            "text": "room",
+            "relevance": 0.559572,
+            "count": 1
+          },
+          {
+            "text": "waters",
+            "relevance": 0.536617,
+            "count": 1
+          },
+          {
+            "text": "snacks",
+            "relevance": 0.532878,
+            "count": 1
+          },
+          {
+            "text": "fridge",
+            "relevance": 0.529324,
+            "count": 1
+          },
+          {
+            "text": "town",
+            "relevance": 0.527854,
+            "count": 1
+          },
+          {
+            "text": "hotel-style amenities",
+            "relevance": 0.523632,
+            "count": 1
+          },
+          {
+            "text": "bed",
+            "relevance": 0.52324,
+            "count": 1
+          },
+          {
+            "text": "Alexandra",
+            "relevance": 0.519218,
+            "count": 1
+          },
+          {
+            "text": "neighborhood",
+            "relevance": 0.515238,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "aab9eee482c5ab9192486940a0d6ce797aea0b09",
+        "filename": "023.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    },
+    {
+      "id": "cd99e256c131a016d70ac7fc9edc6559",
+      "result_metadata": {
+        "confidence": 0.11342153447653298,
+        "score": 2.8075930687385888
+      },
+      "listing_id": 2390109,
+      "host_name": "Alexandra",
+      "text": "Alexandra and David were great hosts, available if we needed anything, but otherwise left us to our privacy. The room and bath were very private and really spacious and beautiful. There was a large walk-in closet that also had a refrigerator with drinks and snacks, \r\nand a coffeemaker. I am somewhat familiar with Austin so knew the fabulous neighborhood was convenient to downtown. I was really very happy with the location, and the 2nd floor view out over the trees of the neighboring park. I would return here in a heartbeat.",
+      "listing_longitude": -97.750131136931742,
+      "reviewer_id": 9630306,
+      "host_id": 2665483,
+      "date": "2015-09-23",
+      "listing_latitude": 30.2962457933164,
+      "reviewer_name": "Jane",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Alexandra",
+            "relevance": 0.894508,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.866713,
+              "label": "positive"
+            },
+            "text": "Austin",
+            "relevance": 0.578352,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "David",
+            "relevance": 0.547247,
+            "type": "Person"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.882153,
+            "label": "positive"
+          }
+        },
+        "concepts": [
+          {
+            "text": "English-language films",
+            "relevance": 0.917789,
+            "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+          },
+          {
+            "text": "Neighborhoods",
+            "relevance": 0.908534,
+            "dbpedia_resource": "http://dbpedia.org/resource/Neighborhoods"
+          },
+          {
+            "text": "Rooms",
+            "relevance": 0.889816,
+            "dbpedia_resource": "http://dbpedia.org/resource/Rooms"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.965472,
+            "label": "/food and drink"
+          }
+        ],
+        "keywords": [
+          {
+            "text": "large walk",
+            "relevance": 0.739026,
+            "count": 1
+          },
+          {
+            "text": "2nd floor view",
+            "relevance": 0.708327,
+            "count": 1
+          },
+          {
+            "text": "great hosts",
+            "relevance": 0.676336,
+            "count": 1
+          },
+          {
+            "text": "Alexandra",
+            "relevance": 0.599443,
+            "count": 1
+          },
+          {
+            "text": "fabulous neighborhood",
+            "relevance": 0.595124,
+            "count": 1
+          },
+          {
+            "text": "trees of the neighboring park",
+            "relevance": 0.58215,
+            "count": 1
+          },
+          {
+            "text": "room",
+            "relevance": 0.568892,
+            "count": 1
+          },
+          {
+            "text": "David",
+            "relevance": 0.557083,
+            "count": 1
+          },
+          {
+            "text": "location",
+            "relevance": 0.557083,
+            "count": 1
+          },
+          {
+            "text": "Austin",
+            "relevance": 0.551324,
+            "count": 1
+          },
+          {
+            "text": "bath",
+            "relevance": 0.537408,
+            "count": 1
+          },
+          {
+            "text": "closet",
+            "relevance": 0.536466,
+            "count": 1
+          },
+          {
+            "text": "refrigerator",
+            "relevance": 0.524828,
+            "count": 1
+          },
+          {
+            "text": "drinks",
+            "relevance": 0.520483,
+            "count": 1
+          },
+          {
+            "text": "privacy",
+            "relevance": 0.516896,
+            "count": 1
+          },
+          {
+            "text": "snacks",
+            "relevance": 0.516896,
+            "count": 1
+          },
+          {
+            "text": "downtown",
+            "relevance": 0.516896,
+            "count": 1
+          },
+          {
+            "text": "heartbeat",
+            "relevance": 0.516896,
+            "count": 1
+          },
+          {
+            "text": "coffeemaker",
+            "relevance": 0.418657,
+            "count": 1
+          }
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "71e4bcbf2458d4c2945bd702c11007ea04f8a9af",
+        "filename": "035.json",
+        "file_type": "json"
+      },
+      "title": "ENTIRE FLOOR! Business travel & fun"
+    }
+  ],
+  "retrieval_details": {
+    "document_retrieval_strategy": "untrained"
+  }
+}
