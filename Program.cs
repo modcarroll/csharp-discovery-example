@@ -23,18 +23,18 @@ namespace DiscoveryExample
         static void Main(string[] args)
         {
             // Add the environment and collection IDs here
-            string environmentId = "ae1ce105-7144-4175-91c2-73b4d399d011";
-            string collectionId = "44a6cc77-2c74-428b-9a8c-f03b1a09948e";
-            string documentId = "b2a0a7e2-bfc9-4457-aa23-dad910b96554";
-            string version = "2019-04-30";
+            string environmentId = "{environment ID}";
+            string collectionId = "{collection ID}";
+            string documentId = "{doc ID if needed}";
+            string version = "{discovery version}";
             string inputQuery = "blue and yellow purple houses";
-            string metadata = "{\"Creator\": \"Morgan Langlais\"}";
+            string metadata = "{\"Creator\": \"Morgan Langlais\"}"; // for testing
 
             TokenOptions tokenOptions = new TokenOptions()
             {
                 // Add your URL and API key here
-                IamApiKey = "N1qjIeEBK7C_GWefO5orKs2iBEhDnfWhGmrbTB-1f6yz",
-                ServiceUrl = "https://gateway.watsonplatform.net/discovery/api"
+                IamApiKey = "{discovery api key}",
+                ServiceUrl = "{discovery api url}"
             };
 
             // Add the Discovery version here
@@ -52,6 +52,7 @@ namespace DiscoveryExample
             //    }
             //}
 
+
             // Query()
             // Add the query you would like to use here, i.e. "purple houses"
             //Console.WriteLine("**********Natural Language Query**********");
@@ -61,11 +62,13 @@ namespace DiscoveryExample
             //    collectionId,
             //    naturalLanguageQuery: inputQuery
             //    );
-
             //string resultString = queryResult.Response;
             //Console.WriteLine("output: " + resultString);
 
-            /* Get all Document IDs from a collection */
+
+            /*
+             * Get all Document IDs from a collection 
+            */
             var getCollectionResponse = service.GetCollection(
                 environmentId,
                 collectionId
@@ -77,49 +80,35 @@ namespace DiscoveryExample
 
             string resultDocNum = collecResponse.Substring(pFrom, 20);
             resultDocNum = Regex.Replace(resultDocNum, "[^0-9]", "");
+
+            // docsInCollection is the total number of documents in the collection
             int docsInCollection = Int32.Parse(resultDocNum);
+            Console.WriteLine("The total number of documents in collection #" + collectionId + " is: " + docsInCollection);
 
-            int iterations = docsInCollection / 5000;
             string allDocIds = "";
-            int offset = 0;
-            int count = 10000;
 
-            // Ok but what is the maximum number of documents you can fit in a collection?
+            // Will only work for collections of size 10000 or less
+            // This gets a list of the document IDs
+            var docidResult = service.Query(
+            environmentId,
+            collectionId,
+            returnFields: "id",
+            count: 10000
+            );
 
-            iterations = 5;
+            string docidString = docidResult.Response;
 
-            for(int i = 0; i < iterations + 1; i++)
-            {
-                //var docidResult = service.Query(
-                //environmentId,
-                //collectionId,
-                //returnFields: "id",
-                //count: count,
-                //sort: documentId, // Probably not working
-                //offset: offset
-                //);
+            var root = JsonConvert.DeserializeObject<Idreturn>(docidString);
 
-                //string docidString = docidResult.Response;
+            // allDocIds is a comma separated list of all document IDs in the collection
+            allDocIds += string.Join(",", root.results.Select(item => item.id));
 
-                //var root = JsonConvert.DeserializeObject<Idreturn>(docidString);
-                //allDocIds += string.Join(",", root.results.Select(item => item.id));
+            string outputDir = @"./docIds.txt";
+            System.IO.File.WriteAllText(outputDir, allDocIds);
+            Console.WriteLine("All Document IDs have been placed in " + outputDir);
+            /**/
 
-                // offset + count must be <= 10000
-
-                // First call: 0 - 10000, subsequent calls should be 5000 count and increment offset by 5000
-                // This is working so offset is: 5000, 10000, 15000, 20000, ...
-                // BUT offset + count must be less than or equal to 10000
-                if(i == 0) { offset = 10000;  count = 5000; } else { offset += 5000; }
-                Console.WriteLine("*** " + i + ":");
-                Console.WriteLine("offset: " + offset);
-                Console.WriteLine("count: " + count);
-                Console.WriteLine();
-
-            }
-
-            Console.WriteLine("All Document IDs: " + allDocIds);
-
-            // Upload a document to Discovery
+            // Upload a document to Discovery, replace somefilenamehere.json with your filename
             //DetailedResponse<DocumentAccepted> uploadResult;
             //using (FileStream fs = File.OpenRead("./somefilenamehere.json"))
             //{
@@ -139,6 +128,7 @@ namespace DiscoveryExample
             //Console.WriteLine("******Upload Results******");
             //Console.WriteLine("Add results: " + uploadResult.Response);
 
+
             // Get a specific document's status
             //var getResult = service.GetDocumentStatus(
             //    environmentId: environmentId,
@@ -147,7 +137,8 @@ namespace DiscoveryExample
             //    );
             //Console.WriteLine("Get doc info results: " + getResult.Response);
 
-            // Update a specific document
+
+            // Update a specific document, replace austinreview.json with your filename
             //DetailedResponse<DocumentAccepted> updateResult;
             //using (FileStream fs = File.OpenRead("./austinreview.json"))
             //{
@@ -165,8 +156,8 @@ namespace DiscoveryExample
             //            );
             //    }
             //}
-
             //Console.WriteLine("Update results: ", updateResult.Response);
+
 
             // Delete a specific document
             //var deleteResult = service.DeleteDocument(
@@ -174,7 +165,6 @@ namespace DiscoveryExample
             //    collectionId: collectionId,
             //    documentId: documentId
             //    );
-
             //Console.WriteLine(deleteResult.Response);
         }
     }
