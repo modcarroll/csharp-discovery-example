@@ -1,10 +1,12 @@
-### C#/.NET Watson Discovery Sample Application
+# C#/.NET Watson Discovery Sample Application
+
+## NOTE: This readme is a work in progress
 
 ## Included components
 
 * [Watson Discovery](https://www.ibm.com/watson/services/discovery/): A cognitive search and content analytics engine for applications to identify patterns, trends, and actionable insights.
 
-# Steps
+## Steps
 
 1. [Clone the repo](#1-clone-the-repo)
 1. [Create IBM Cloud services](#2-create-ibm-cloud-services)
@@ -66,7 +68,4 @@ String inputQuery = "{your natural language query here}";
 
 1. Install .Net, etc.
 1. Start the app by running `dotnet run`.
-1. This is a command line applicatiton, so there is no UI.
-
--- Add which methods I'm using and what they do with comments
--- Add prereqs to install
+1. This is a command line application, so there is no UI.
