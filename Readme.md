@@ -1,7 +1,5 @@
 # C#/.NET Watson Discovery Sample Application
 
-## NOTE: This readme is a work in progress
-
 ## Included components
 
 * [Watson Discovery](https://www.ibm.com/watson/services/discovery/): A cognitive search and content analytics engine for applications to identify patterns, trends, and actionable insights.
